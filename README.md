@@ -1,5 +1,7 @@
 # my_airbnb_project
-In this project, I clean airbnb data, put the clean data in postgresql db and create and api that serves that data using fast api
+In this project, I clean airbnb data, put the clean data in postgresql db and create and api that serves that data using fast api.
+
+I work on these project for my [youtube videos](https://www.youtube.com/channel/UCzSlSeJ4XH4bWH79DKmIxjg). Conside looking at them if you want to learn more and maybe subscribing.
 
 ## To use the project
 
