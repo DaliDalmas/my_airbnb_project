@@ -11,7 +11,13 @@ In this project, I clean airbnb data, put the clean data in postgresql db and cr
 
 ## To use the notebooks for cleaning
 1. activate the virtual environment you created above
+```
+source venv/bin/activate
+```
 2. launch jupyter lab
+```
+jupyter lab
+```
 3. open the notebooks
 4. ...
 
